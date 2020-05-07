@@ -1,0 +1,70 @@
+#logo{
+    width:15%;
+    height:15%;
+    margin-right: 10px;
+
+}
+
+.navbar-brand,
+.nav-link{
+    font-size: 25px;
+    font-family: 'Quicksand', sans-serif;
+    color:white;
+}
+nav{
+    background: #242323;
+    height:100px;
+    margin:auto;
+}
+
+.content{
+    width:90%;
+    margin:auto;
+}
+
+.nav-link{
+    margin:15px;
+}
+
+body{
+    background: #654ea3;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #eaafc8, #654ea3);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #eaafc8, #654ea3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */  
+ 
+}
+#capitalImage{
+    border-radius: 5%;
+}
+h2{
+    text-align: center;
+}
+.banner1{
+    border-radius: 5%;
+}
+
+.findTrip{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.lbl{
+    height: 50px;
+    width:400px;   
+}
+
+.destination,
+.endDate{
+    border: 3px solid #277FD7;
+}
+
+.startDate{
+    border-top:3px solid #277FD7;
+    border-bottom:3px solid #277FD7;
+    border-right: 1px solid #277FD7;
+    border-left: 1px solid #277FD7;
+}
+
+#searchButton{
+    text-align: center;
+}
